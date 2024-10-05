@@ -1,0 +1,15 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"D:/Github/Projects/LD56/FishyCleanup/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset",
+				"D:/Github/Projects/LD56/FishyCleanup/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/8/Z7/W1SXRCM1KAKBJOIZDLHZ47.uasset",
+				"D:/Github/Projects/LD56/FishyCleanup/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/4/N6/BJ3TDWQK35ATQGCAXTSIIW.uasset",
+				"D:/Github/Projects/LD56/FishyCleanup/Content/FirstPerson/Maps/FirstPersonMap.umap"
+			]
+		}
+	]
+}
