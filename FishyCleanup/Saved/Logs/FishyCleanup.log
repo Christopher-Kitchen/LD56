@@ -1,5 +1,9 @@
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 ﻿Log file open, 10/05/24 15:11:33
+=======
+﻿Log file open, 10/05/24 16:20:35
+>>>>>>> Stashed changes
 =======
 ﻿Log file open, 10/05/24 16:20:35
 >>>>>>> Stashed changes
@@ -11,7 +15,11 @@ LogWindows: File 'VtuneApi.dll' does not exist
 LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
 LogWindows: File 'VtuneApi32e.dll' does not exist
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 LogWindows: Started CrashReportClient (pid=33104)
+=======
+LogWindows: Started CrashReportClient (pid=26036)
+>>>>>>> Stashed changes
 =======
 LogWindows: Started CrashReportClient (pid=26036)
 >>>>>>> Stashed changes
@@ -31,6 +39,7 @@ LogCsvProfiler: Display: Metadata set : pgoenabled="0"
 LogCsvProfiler: Display: Metadata set : pgoprofilingenabled="0"
 LogCsvProfiler: Display: Metadata set : ltoenabled="0"
 LogCsvProfiler: Display: Metadata set : asan="0"
+<<<<<<< Updated upstream
 <<<<<<< Updated upstream
 LogCsvProfiler: Display: Metadata set : commandline="" D:\Github\Projects\LD56\FishyCleanup\FishyCleanup.uproject""
 LogCsvProfiler: Display: Metadata set : loginid="d97d59a14cfda56873bdd280c9134989"
@@ -62,6 +71,16 @@ LogICUInternationalization: ICU TimeZone Detection - Raw Offset: -8:00, Platform
 LogInit: Session CrashGUID >====================================================
          Session CrashGUID >   UECC-Windows-AC290EAC40918016A1F0AF9C2E8C2985
          Session CrashGUID >====================================================
+=======
+LogCsvProfiler: Display: Metadata set : commandline="" C:\Users\color\Documents\GITHUB\LD56\FishyCleanup\FishyCleanup.uproject""
+LogCsvProfiler: Display: Metadata set : loginid="6473220f4080e7f3474d14a5bd36c7a5"
+LogCsvProfiler: Display: Metadata set : llm="0"
+LogStats: Stats thread started at 0.402786
+LogICUInternationalization: ICU TimeZone Detection - Raw Offset: -8:00, Platform Override: ''
+LogInit: Session CrashGUID >====================================================
+         Session CrashGUID >   UECC-Windows-AC290EAC40918016A1F0AF9C2E8C2985
+         Session CrashGUID >====================================================
+>>>>>>> Stashed changes
 LogConfig: No local boot hotfix file found at: [../../../../../../Users/color/Documents/GITHUB/LD56/FishyCleanup/Saved/PersistentDownloadDir/HotfixForNextBoot.txt]
 LogConfig: Display: Loading VulkanPC ini files took 0.08 seconds
 LogConfig: Display: Loading Mac ini files took 0.08 seconds
@@ -74,6 +93,9 @@ LogConfig: Display: Loading Linux ini files took 0.13 seconds
 LogConfig: Display: Loading LinuxArm64 ini files took 0.13 seconds
 LogConfig: Display: Loading VisionOS ini files took 0.07 seconds
 LogConfig: Display: Loading Windows ini files took 0.07 seconds
+<<<<<<< Updated upstream
+>>>>>>> Stashed changes
+=======
 >>>>>>> Stashed changes
 LogPluginManager: Mounting Engine plugin ChaosCloth
 LogPluginManager: Mounting Engine plugin Bridge
@@ -81,6 +103,7 @@ LogPluginManager: Mounting Engine plugin ChaosVD
 LogPluginManager: Found config from plugin[ChaosVD] Engine
 LogPluginManager: Mounting Engine plugin CmdLinkServer
 LogPluginManager: Mounting Engine plugin FastBuildController
+<<<<<<< Updated upstream
 <<<<<<< Updated upstream
 LogPluginManager: Mounting Engine plugin EnhancedInput
 LogPluginManager: Found config from plugin[EnhancedInput] Input
@@ -90,8 +113,14 @@ LogPluginManager: Mounting Engine plugin MeshPainting
 LogPluginManager: Mounting Engine plugin EnhancedInput
 LogPluginManager: Found config from plugin[EnhancedInput] Input
 >>>>>>> Stashed changes
+=======
+LogPluginManager: Mounting Engine plugin MeshPainting
+LogPluginManager: Mounting Engine plugin EnhancedInput
+LogPluginManager: Found config from plugin[EnhancedInput] Input
+>>>>>>> Stashed changes
 LogPluginManager: Mounting Engine plugin RenderGraphInsights
 LogPluginManager: Mounting Engine plugin XGEController
+<<<<<<< Updated upstream
 <<<<<<< Updated upstream
 LogPluginManager: Mounting Engine plugin WorldMetrics
 LogPluginManager: Mounting Engine plugin TraceUtilities
@@ -206,12 +235,21 @@ LogPluginManager: Mounting Engine plugin EnvironmentQueryEditor
 LogPluginManager: Mounting Engine plugin AISupport
 LogPluginManager: Mounting Engine plugin CameraShakePreviewer
 LogPluginManager: Mounting Engine plugin GameplayCameras
+=======
+LogPluginManager: Mounting Engine plugin EnvironmentQueryEditor
+LogPluginManager: Mounting Engine plugin AISupport
+LogPluginManager: Mounting Engine plugin CameraShakePreviewer
+LogPluginManager: Mounting Engine plugin GameplayCameras
+>>>>>>> Stashed changes
 LogPluginManager: Mounting Engine plugin AlembicImporter
 LogPluginManager: Mounting Engine plugin TcpMessaging
 LogPluginManager: Mounting Engine plugin UdpMessaging
 LogPluginManager: Mounting Engine plugin ActorLayerUtilities
 LogPluginManager: Mounting Engine plugin AndroidFileServer
 LogPluginManager: Mounting Engine plugin AndroidDeviceProfileSelector
+<<<<<<< Updated upstream
+>>>>>>> Stashed changes
+=======
 >>>>>>> Stashed changes
 LogPluginManager: Mounting Engine plugin AndroidPermission
 LogPluginManager: Mounting Engine plugin AndroidMoviePlayer
@@ -228,6 +266,7 @@ LogPluginManager: Mounting Engine plugin AudioSynesthesia
 LogPluginManager: Mounting Engine plugin CustomMeshComponent
 LogPluginManager: Mounting Engine plugin ExampleDeviceProfileSelector
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 LogPluginManager: Mounting Engine plugin GeometryCache
 LogPluginManager: Mounting Engine plugin GoogleCloudMessaging
 LogPluginManager: Mounting Engine plugin GeometryProcessing
@@ -238,11 +277,18 @@ LogPluginManager: Found config from plugin[InputDebugging] Input
 =======
 LogPluginManager: Mounting Engine plugin GeometryProcessing
 LogPluginManager: Mounting Engine plugin GooglePAD
+=======
+LogPluginManager: Mounting Engine plugin GeometryProcessing
+LogPluginManager: Mounting Engine plugin GooglePAD
+>>>>>>> Stashed changes
 LogPluginManager: Mounting Engine plugin GeometryCache
 LogPluginManager: Mounting Engine plugin InputDebugging
 LogPluginManager: Found config from plugin[InputDebugging] Input
 LogPluginManager: Mounting Engine plugin IOSDeviceProfileSelector
 LogPluginManager: Mounting Engine plugin GoogleCloudMessaging
+<<<<<<< Updated upstream
+>>>>>>> Stashed changes
+=======
 >>>>>>> Stashed changes
 LogPluginManager: Mounting Engine plugin LinuxDeviceProfileSelector
 LogPluginManager: Mounting Engine plugin LocationServicesBPLibrary
@@ -250,7 +296,10 @@ LogPluginManager: Mounting Engine plugin MeshModelingToolset
 LogPluginManager: Mounting Engine plugin MobilePatchingUtils
 LogPluginManager: Mounting Engine plugin Metasound
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 LogPluginManager: Mounting Engine plugin MobilePatchingUtils
+=======
+>>>>>>> Stashed changes
 =======
 >>>>>>> Stashed changes
 LogPluginManager: Mounting Engine plugin MsQuic
@@ -265,8 +314,11 @@ LogPluginManager: Mounting Engine plugin WaveTable
 LogPluginManager: Mounting Engine plugin WebMMoviePlayer
 LogPluginManager: Mounting Engine plugin WindowsMoviePlayer
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 LogPluginManager: Mounting Engine plugin Paper2D
 =======
+=======
+>>>>>>> Stashed changes
 LogPluginManager: Mounting Engine plugin WindowsDeviceProfileSelector
 LogPluginManager: Mounting Engine plugin ACLPlugin
 >>>>>>> Stashed changes
@@ -274,6 +326,7 @@ LogPluginManager: Mounting Engine plugin AnimationData
 LogPluginManager: Mounting Engine plugin ACLPlugin
 LogPluginManager: Mounting Engine plugin AnimationModifierLibrary
 LogPluginManager: Mounting Engine plugin BlendSpaceMotionAnalysis
+<<<<<<< Updated upstream
 <<<<<<< Updated upstream
 LogPluginManager: Mounting Engine plugin ControlRig
 LogPluginManager: Mounting Engine plugin ControlRigSpline
@@ -301,6 +354,8 @@ PixWinPlugin: PIX capture plugin failed to initialize! Check that the process is
 LogConfig: Applying CVar settings from Section [/Script/RenderDocPlugin.RenderDocPluginSettings] File [Engine]
 RenderDocPlugin: Display: RenderDoc plugin will not be loaded. Use '-AttachRenderDoc' on the cmd line or enable 'renderdoc.AutoAttach' in the plugin settings.
 =======
+=======
+>>>>>>> Stashed changes
 LogPluginManager: Mounting Engine plugin AnimationModifierLibrary
 LogPluginManager: Mounting Engine plugin ControlRig
 LogPluginManager: Mounting Engine plugin ControlRigModules
@@ -444,15 +499,21 @@ LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
 LogOnline: OSS: Created online subsystem instance for: NULL
 LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for type [NULL]
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 LogStudioTelemetry: Display: Starting StudioTelemetry Module
 LogStudioTelemetry: Display: Created an analytics provider LogAnalytics from module AnalyticsLog configuration Engine [StudioTelemetry.Log]
 LogStudioTelemetry: Started StudioTelemetry Session
 =======
+=======
+>>>>>>> Stashed changes
 LogWindows: Failed to load 'WinPixGpuCapturer.dll' (GetLastError=126)
 LogWindows: File 'WinPixGpuCapturer.dll' does not exist
 PixWinPlugin: PIX capture plugin failed to initialize! Check that the process is launched from PIX.
 LogConfig: Applying CVar settings from Section [/Script/RenderDocPlugin.RenderDocPluginSettings] File [Engine]
 RenderDocPlugin: Display: RenderDoc plugin will not be loaded. Use '-AttachRenderDoc' on the cmd line or enable 'renderdoc.AutoAttach' in the plugin settings.
+<<<<<<< Updated upstream
+>>>>>>> Stashed changes
+=======
 >>>>>>> Stashed changes
 LogInit: ExecutableName: UnrealEditor.exe
 LogInit: Build: ++UE5+Release-5.4-CL-35576357
@@ -521,6 +582,7 @@ LogConfig: CVar [[framepro.ScopeMinTimeMicroseconds:10]] deferred - dummy variab
 LogConfig: CVar [[fx.NiagaraAllowRuntimeScalabilityChanges:1]] deferred - dummy variable created
 LogConfig: CVar [[QualityLevelMapping:high]] deferred - dummy variable created
 LogConfig: CVar [[r.Occlusion.SingleRHIThreadStall:1]] deferred - dummy variable created
+<<<<<<< Updated upstream
 <<<<<<< Updated upstream
 [2024.10.05-22.11.34:199][  0]LogConfig: Set CVar [[r.Shadow.DetectVertexShaderLayerAtRuntime:1]]
 [2024.10.05-22.11.34:199][  0]LogConfig: CVar [[D3D12.Bindless.ResourceDescriptorHeapSize:100000]] deferred - dummy variable created
@@ -2055,6 +2117,8 @@ _MatTransl_3B7A55D3409170328211A060FC2E3BB1E263C720_BBD650804D314CE7A44ADF9BB4F3
 [2024.10.05-22.26.39:940][746]LogPython: Display: Object '/Engine/PythonTypes.import_ik_rig_options' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
 [2024.10.05-22.26.39:940][746]LogPython: Display: Object '/Engine/PythonTypes.ControlOutputFormat' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
 =======
+=======
+>>>>>>> Stashed changes
 LogConfig: Set CVar [[r.Shadow.DetectVertexShaderLayerAtRuntime:1]]
 [2024.10.05-23.20.36:405][  0]LogConfig: CVar [[D3D12.Bindless.ResourceDescriptorHeapSize:100000]] deferred - dummy variable created
 [2024.10.05-23.20.36:405][  0]LogConfig: CVar [[D3D12.Bindless.SamplerDescriptorHeapSize:2048]] deferred - dummy variable created
@@ -2913,4 +2977,7 @@ _MatTransl_3B7A55D3409170328211A060FC2E3BB1E263C720_BBD650804D314CE7A44ADF9BB4F3
 [2024.10.05-23.29.35:119][640]LogD3D12RHI: ~FD3D12DynamicRHI
 [2024.10.05-23.29.35:157][640]LogExit: Exiting.
 [2024.10.05-23.29.35:185][640]Log file closed, 10/05/24 16:29:35
+<<<<<<< Updated upstream
+>>>>>>> Stashed changes
+=======
 >>>>>>> Stashed changes

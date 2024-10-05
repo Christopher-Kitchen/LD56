@@ -6,11 +6,14 @@
 			"description": "Default Uncontrolled Changelist",
 			"files": [
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 				"D:/Github/Projects/LD56/FishyCleanup/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset",
 				"D:/Github/Projects/LD56/FishyCleanup/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/8/Z7/W1SXRCM1KAKBJOIZDLHZ47.uasset",
 				"D:/Github/Projects/LD56/FishyCleanup/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/4/N6/BJ3TDWQK35ATQGCAXTSIIW.uasset",
 				"D:/Github/Projects/LD56/FishyCleanup/Content/FirstPerson/Maps/FirstPersonMap.umap"
 =======
+=======
+>>>>>>> Stashed changes
 				"C:/Users/color/Documents/GITHUB/LD56/FishyCleanup/Content/My_Materials/M_Simple.uasset",
 				"C:/Users/color/Documents/GITHUB/LD56/FishyCleanup/Content/My_Materials/MI_Simple1.uasset",
 				"C:/Users/color/Documents/GITHUB/LD56/FishyCleanup/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/7/L5/1ZJ54FMA0DAL3I2Q8RFAIB.uasset",
@@ -74,6 +77,9 @@
 				"C:/Users/color/Documents/GITHUB/LD56/FishyCleanup/Content/FirstPerson/Maps/_GENERATED/color/Box_083A863E.uasset",
 				"C:/Users/color/Documents/GITHUB/LD56/FishyCleanup/Content/FirstPerson/Maps/_GENERATED/color/SM_GridCube_0B659D46.uasset",
 				"C:/Users/color/Documents/GITHUB/LD56/FishyCleanup/Content/FirstPerson/Maps/_GENERATED/color/SM_GridCube2_A5781555.uasset"
+<<<<<<< Updated upstream
+>>>>>>> Stashed changes
+=======
 >>>>>>> Stashed changes
 			]
 		}
